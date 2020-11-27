@@ -1,24 +1,61 @@
-# README
+## Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> The aim this project is to ensure that you have Ruby in Rails ready to work. Find project specification [here](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails)
 
-Things you may want to cover:
+## Live Demo
+[Heroku](https://still-coast-85951.herokuapp.com/)
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
+### Prerequisites
 
-* How to run the test suite
+- Ruby
 
-* Services (job queues, cache servers, search engines, etc.)
+- Rails
 
-* Deployment instructions
+### Install
 
-* ...
+1) Open your Terminal
+2) Run
+
+```sh
+git clone https://github.com/CornerstoneII/Odin_Rails_App.git
+```
+
+4) Run 'cd Odin_Rails_App' to enter the main directory'
+
+5) Run 'cd my_first_rails_app' to enter the main directory'
+
+6)  In the terminal type
+
+```sh
+rails server
+```
+
+## Author
+
+👤 **Iyadi Oluwaseun**
+
+- Github: [@CornerstoneII](https://github.com/CornerstoneII)
+- Linkedin: [CornerstoneII](https://www.linkedin.com/in/oluwaseun-iyadi-773584b4/)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [theodinproject](https://www.theodinproject.com/courses/ruby-on-rails)
